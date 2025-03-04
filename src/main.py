@@ -6,3 +6,6 @@ from utils.server import start_web_server
 
 if __name__=="__main__":
     asyncio.run(start_web_server())
+
+
+    #TODO install plugins so that the project can run
