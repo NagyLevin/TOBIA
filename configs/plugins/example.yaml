@@ -1,4 +1,9 @@
 components:
   # Must set one of 'directory' or 'endpoint'
-  - directory: "path/to/project/root/" # For windows, replace each \ with \\
-  - endpoint: "127.0.0.1:50000" # If you set this URI, you will need to run the component separately before running this
+  - directory: "C:\\Users\\levis\\PycharmProjects\\TOBIA\\configs\\plugins\\stt_openai_whisper_lcc" # For windows, replace each \ with \\
+  - directory: "C:\\Users\\levis\\PycharmProjects\\TOBIA\\configs\\plugins\\t2t-openai-lcc" # For windows, replace each \ with \\
+  - directory: "C:\\Users\\levis\\PycharmProjects\\TOBIA\\configs\\plugins\\ttsc-no-changer-lcc" # For windows, replace each \ with \\
+  - directory: "C:\\Users\\levis\\PycharmProjects\\TOBIA\\configs\\plugins\\ttsg-openai-api-lcc" # For windows, replace each \ with \\
+  #- directory: "C:\\Users\\levis\\PycharmProjects\\TOBIA\\configs\\plugins\\app-jaison-discord-lcc" # For windows, replace each \ with \\
+
+  # - endpoint: "127.0.0.1:50000" # If you set this URI, you will need to run the component separately before running this
